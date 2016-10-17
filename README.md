@@ -1,12 +1,10 @@
 # drupal8-docker
 ## How to run
 <code>
-git clone https://github.com/thuannvn/drupal8-docker.git
-cd drupal8-docker
-
-chmod +x start.sh  
-
-./start.sh  
+git clone https://github.com/thuannvn/drupal8-docker.git </code>
+cd drupal8-docker </code>
+chmod +x start.sh </code>
+./start.sh </code>
 
 </code>
 
