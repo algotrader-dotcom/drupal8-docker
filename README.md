@@ -20,3 +20,8 @@ username: drupal
 password: drupal  
 host: mariadb  
 
+## Other services
+phpmyadmin : http://127.0.0.1:8001
+mailhog:     http://127.0.0.1:8002
+
+
