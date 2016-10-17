@@ -1,5 +1,4 @@
-# Download drupal to www
-wget https://ftp.drupal.org/files/projects/drupal-8.2.1.tar.gz
+wget https://ftp.drupal.org/files/projects/drupal-8.2.1.tar.gz # Change your drupal download here
 tar zxf drupal-8.2.1.tar.gz
 ln -s drupal-8.2.1 www
 rm -f drupal-8.2.1.tar.gz
